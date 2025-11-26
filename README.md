@@ -1,4 +1,4 @@
-🌐 Syed Abdul Rahaman — Personal Portfolio Website
+🌐 **Syed Abdul Rahaman** — Personal Portfolio Website
 
 This is my personal portfolio website built to showcase my skills, projects, education, and experience as a Python Full-Stack Developer.
 It features a modern design, responsive layout, and smooth interactions — built using HTML, CSS, and JavaScript.
@@ -72,7 +72,7 @@ It features a modern design, responsive layout, and smooth interactions — buil
 
 GitHub: https://github.com/Abdulrahaman07301
 
-LinkedIn: https://www.linkedin.com/in/syed-abdul-rahaman-991041306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: https://www.linkedin.com/in/syedabdulrahaman2003/
 
 Instagram: https://www.instagram.com/abdul__rahaman___07/
 
