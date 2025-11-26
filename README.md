@@ -1,14 +1,14 @@
-🌐 **Syed Abdul Rahaman** — Personal Portfolio Website
+**🌐 **Syed Abdul Rahaman** — Personal Portfolio Website**
 
 This is my personal portfolio website built to showcase my skills, projects, education, and experience as a Python Full-Stack Developer.
 It features a modern design, responsive layout, and smooth interactions — built using HTML, CSS, and JavaScript.
 
-🚀 Live Demo
+**🚀 Live Demo**
 
 🔗 (Add your deployed URL here if hosted on Vercel/Netlify/GitHub Pages)
 (Optional hosting platform name)
 
-📌 Features
+**📌 Features**
 
 ✔ Fully responsive professional UI
 
@@ -38,7 +38,7 @@ It features a modern design, responsive layout, and smooth interactions — buil
 | 🎨 Styles                 | `style.css`                 | Styling and UI layout          |
 | ⚙️ Script                 | `main.js`                   | Interactivity and logic        |
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 -> HTML5
 
@@ -52,7 +52,7 @@ It features a modern design, responsive layout, and smooth interactions — buil
 
 -> Image Assets & UI Design
 
-📸 Project Highlights
+**📸 Project Highlights**
 
 🔹 Portfolio Website
 
@@ -70,13 +70,16 @@ It features a modern design, responsive layout, and smooth interactions — buil
 
    Structured academic & internship details.
 
-📬 Contact Me
+**📬 Contact Me**
 
 📧 Email: sayyedabdul2003@gmail.com
+
 📱 Phone: +91 9515776804
+
 📍 Location: Nellore, AndhraPradesh, India
 
-🌐 Social Links
+
+**🌐 Social Links**
 
 GitHub: https://github.com/Abdulrahaman07301
 
@@ -84,11 +87,11 @@ LinkedIn: https://www.linkedin.com/in/syedabdulrahaman2003/
 
 Instagram: https://www.instagram.com/abdul__rahaman___07/
 
-📄 License
+**📄 License**
 
 -> This project is open-source and available under the MIT License.
 
-⭐ Show Your Support!
+**⭐ Show Your Support!**
 
 -> If you like this portfolio or found it helpful, feel free to ⭐ star this repository!
 -> It motivates me to build more awesome projects 🚀
