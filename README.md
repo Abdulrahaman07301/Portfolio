@@ -11,13 +11,21 @@ It features a modern design, responsive layout, and smooth interactions — buil
 📌 Features
 
 ✔ Fully responsive professional UI
+
 ✔ Clean and modern homepage
+
 ✔ About page with personal profile
+
 ✔ Education & experience timeline
+
 ✔ Project showcase section
+
 ✔ Contact page with details & links
+
 ✔ Smooth navigation & animations
+
 ✔ Organized code structure
+
 
 📁 Pages Included
 | Page                      | File                        | Description                    |
@@ -48,19 +56,19 @@ It features a modern design, responsive layout, and smooth interactions — buil
 
 🔹 Portfolio Website
 
-    Personal portfolio with responsive layout and smooth navigation.
+   Personal portfolio with responsive layout and smooth navigation.
 
 🔹 Web Projects Showcase
 
-    Multiple projects displayed with images and descriptions.
+   Multiple projects displayed with images and descriptions.
 
 🔹 Simple Calculator / Mini Apps
 
-    JavaScript-based small projects for learning & practice.
+   JavaScript-based small projects for learning & practice.
 
 🔹 Education Profile Page
 
-    Structured academic & internship details.
+   Structured academic & internship details.
 
 📬 Contact Me
 
