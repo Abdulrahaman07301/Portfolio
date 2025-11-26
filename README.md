@@ -3,10 +3,11 @@
 This is my personal portfolio website built to showcase my skills, projects, education, and experience as a Python Full-Stack Developer.
 It features a modern design, responsive layout, and smooth interactions — built using HTML, CSS, and JavaScript.
 
+
 **🚀 Live Demo**
 
-🔗 (Add your deployed URL here if hosted on Vercel/Netlify/GitHub Pages)
-(Optional hosting platform name)
+🔗 https://portfolio-smoky-alpha-b6fkwewe24.vercel.app/
+
 
 **📌 Features**
 
