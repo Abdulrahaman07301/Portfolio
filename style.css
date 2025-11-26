@@ -469,6 +469,22 @@ header {
     background: linear-gradient(135deg, #fff, #ccc);
 }
 
+.project-link-wrapper {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.project-card {
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
 /* -------------------------
    Contact Page
    ------------------------- */
