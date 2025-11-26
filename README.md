@@ -25,6 +25,7 @@ portfolio/
 ├── style.css
 └── README.md
 
+
 🌐 Pages Included
 
 -> Home (index.html) – Main landing page
